@@ -57,6 +57,7 @@ My grandmother Marion was Minnie and Earl’s daughter, a Tinkham of Tinkahmtown
 ## Part V. Old Rochester Regional: My Parents’ Generation
 
 Until the late 1950s, ninth-graders in the three towns that made up old Rochester were still bused out to Wareham, Fairhaven, or New Bedford for high school. The towns finally built a shared high school, with Old Rochester Regional (ORR) opening its doors in 1961. My family was there at the beginning, with my father’s older sister Linda being in the school’s first graduating class, and Ethel’s children Ann and Alan following a couple of years later.
+{% include essay/feature/image-gallery.html objectid="orr_high_school" %}
 
 After graduating from ORR, my mother began college at Bridgewater State College (now University), but after her father died, she transferred to Southeastern Massachusetts University, where she studied under Howard Glasser who was a central figure in the regional folk-music and dance revival (and who taught at Carnegie Mellon before SMU!).
 
