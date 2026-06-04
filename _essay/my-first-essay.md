@@ -10,7 +10,7 @@ order: 1
 
 In this paper, I will be sharing the story of how the people I come from were educated, and set this against the larger history of those institutions that did the schooling. I’ll be focusing on one main branch of my family, which is the one the most documented, and include what little I have of the rest. My family has stayed in southeastern Massachusetts for four centuries, coming over on the Mayflower. Most of the later sections of this paper will take place inside the same few square miles: the farming village of Tinkhamtown, originally part of old Rochester and now within the harbor town of Mattapoisett, nearest to the mill city (and former whaling port mentioned in *Moby Dick*) of New Bedford a few miles west. In this, I will trace how my ancestors learned, failed to learn, were kept from learning, and then eventually taught themselves, which will echo the way we have been tracing American schooling itself. We go from a single Bible in a colonial household, through the one-room district school, to the consolidated regional high school, and finally, to the research university where I now work.
 
-{% include feature/timeline.html %}
+{% include essay/feature/timeline.html %}
 
 ## Part I. One Bible: The Colonial Roots
 
