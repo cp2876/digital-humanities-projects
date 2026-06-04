@@ -4,6 +4,17 @@ order: 1
 ---
 
 *Charlotte Kiger Price · EDPH 4070, Professor Ajua Kouadio · June 3, 2026*
+## Contents
+
+- [Introduction](#introduction)
+- [Part I. One Bible: The Colonial Roots](#part-i-one-bible-the-colonial-roots)
+- [Part II. The Tinkhams of Tinkhamtown and the District Schools of Old Rochester](#part-ii-the-tinkhams-of-tinkhamtown-and-the-district-schools-of-old-rochester)
+- [Part III. New Bedford, the Mills, an Interrupted Education](#part-iii-new-bedford-the-mills-an-interrupted-education)
+- [Part IV. Walking to the Herring Weir: Consolidation](#part-iv-walking-to-the-herring-weir-consolidation)
+- [Part V. Old Rochester Regional: My Parents' Generation](#part-v-old-rochester-regional-my-parents-generation)
+- [Part VI. Librarians](#part-vi-librarians)
+- [Part VII. The Voices We Do Not Hear](#part-vii-the-voices-we-do-not-hear)
+- [References](#references)
 
 ## Introduction
 
