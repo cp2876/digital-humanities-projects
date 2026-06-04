@@ -1,7 +1,6 @@
 ---
 title: Educational Memoir
 order: 1
-# Add any other fields your CB-Essay template expects (e.g. nav, class, banner-image).
 ---
 
 *Charlotte Kiger Price · EDPH 4070, Professor Ajua Kouadio · June 3, 2026*
