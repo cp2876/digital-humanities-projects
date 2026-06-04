@@ -50,14 +50,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # These fields control what appears on your homepage cover/title page
 #
 # title: Main title displayed prominently on the cover page (required)
-title: CB-Essay
+title: An Educational History of the Tinkhams
 #
 # author: Appears as "by [Author Name]" beneath the title on cover page (optional)
 # - If provided, this displays instead of the tagline
 # - Leave blank to show tagline instead
 # - You can use HTML to add line breaks or additional attribution:
 #   author: "Author Name<br>Edited by Editor Name<br>Translated by Translator Name"
-author: Charlotte Kiger Price
+author: Charlotte Kiger Price, Teachers College
 #
 # tagline: A subtitle/tagline that appears beneath the title (optional)
 # - Only displays if "author" field is empty
@@ -71,7 +71,7 @@ tagline:
 # description: Longer description for search engines and social sharing (recommended)
 # - Appears in meta tags and search results
 # - Keep around 160 characters max for best display in search results
-description: "CB-Essay combines CollectionBuilder-CSV with essay and exhibit capabilities, allowing you to create multi-modal narratives that incorporate items from your digital collection directly into your writing and pages."
+description: "Class project mixing images with an educational memoir."
 #
 # keywords: Short list of subjects separated by semicolons, for rich markup metadata
 keywords: digital humanities; multimodal essays; lib-static
