@@ -57,14 +57,14 @@ title: CB-Essay
 # - Leave blank to show tagline instead
 # - You can use HTML to add line breaks or additional attribution:
 #   author: "Author Name<br>Edited by Editor Name<br>Translated by Translator Name"
-author:
+author: Charlotte Kiger Price
 #
 # tagline: A subtitle/tagline that appears beneath the title (optional)
 # - Only displays if "author" field is empty
 # - Use for descriptive subtitle or project tagline
 # - Can also use HTML for multi-line display:
 #   tagline: "A Digital Edition<br>Published 2024"
-tagline: Essay in the front, CollectionBuilder in the back
+tagline: 
 #
 # METADATA FIELDS (for search engines and social media):
 #
@@ -77,14 +77,14 @@ description: "CB-Essay combines CollectionBuilder-CSV with essay and exhibit cap
 keywords: digital humanities; multimodal essays; lib-static
 #
 # exhibit-creator: Creator of the digital collection for meta tags (your name or GitHub username)
-exhibit-creator: dcnb
+exhibit-creator: cp2876
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-compoundobjects-metadata 
+metadata: cb-collection-metadata 
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
@@ -96,16 +96,7 @@ metadata: demo-compoundobjects-metadata
 #     filter: 'objectid'  
 
 ##########
-# Site/Organization Branding 
-#   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
-#   To remove the branding, comment out these values, or delete them. 
-#
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
-##########
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
